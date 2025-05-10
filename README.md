@@ -60,3 +60,4 @@ Tabel `mahasiswa` memiliki kolom-kolom berikut:
 - `telp` (varchar)
 
 # Dokumentasi
+https://github.com/user-attachments/assets/31bc43e4-7d5a-4fa1-8831-40e89937bb19
